@@ -1,6 +1,6 @@
 # Steiner graph solver
 
-I completed this project as part of the `Advanced Practical Programming for Scientists` module at the Technische Universität Berlin.
+I completed this project as part of the *Advanced Practical Programming for Scientists* module at the Technische Universität Berlin.
 
 This project uses an improved Steiner graph heuristics proposed by [Takahashi and Matsuyama (1980)](https://www.cs.haifa.ac.il/~golumbic/courses/seminar-2010approx/takahashi80.PDF). Parallelisation is also implemented. The Steiner graph problem for graphs of size ~2.0gb can be solved in under 30s.
 
