@@ -13,7 +13,7 @@ SRCS = src/utils.cxx src/heap.cxx src/steiner.cxx src/checker.cxx
 OBJS = $(subst .cxx,.o,$(SRCS))
 
 # target executable to build:
-TARGET = ex10
+TARGET = steiner_solver
 
 # graph data file to read:
 ifndef FILE

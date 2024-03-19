@@ -3,7 +3,7 @@
  *  @author  Ray Chew
  *  @date    20 July 2017
  *  
- *  @brief utils namespace header containing useful/helper functions that are required by ex10.cxx, e.g. generating primes, etc.
+ *  @brief utils namespace header containing useful/helper functions that are required by steiner_solver.cxx, e.g. generating primes, etc.
  *
  */
 

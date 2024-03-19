@@ -1,12 +1,12 @@
 /**
- * \file ex10.cxx
+ * \file steiner_solver.cxx
  * \author Ray Chew
  * \date 20 July 2017
  * \brief Steiner-Tree builder for .gph graphs
  */
 
 /**
- * \mainpage Ex10
+ * \mainpage steiner_solver
  * 
  * \section Description
  * 
@@ -18,7 +18,7 @@
  * The objective value of the Steiner Tree and its edges (if the -s flag is specified) will be printed.
  * 
  * * Compile using make. Specify at compile time THREADS=XX and FILE=YY for number of threads to be used and graph file to read.<br>
- * * run: `./ex10 filepath/graph.gph [first N terminals] [-s]`<br>
+ * * run: `./steiner_solver filepath/graph.gph [first N terminals] [-s]`<br>
  */
 
 #include "utils.h"
